@@ -1,7 +1,8 @@
 # WorkRestTimer
 
 一款专为 macOS 设计的智能工作休息计时器应用。通过双模式自动化切换、强制锁屏与智能状态监控，帮助用户有效管理工作节律并强制执行休息策略。
-![Uploading Kapture 2026-04-21 at 14.05.21.gif…]()
+<img width="562" height="819" alt="Kapture 2026-04-21 at 14 05 21" src="https://github.com/user-attachments/assets/a8df5dd1-9ef3-4821-ab24-618b236e3f8b" />
+
 
 ## 核心特性
 
